@@ -1,6 +1,6 @@
 # Hi there , my name is Begimai  !
  
- **Young specialist from Kyrgyzstan in the field of IT** :EMOJICODE::computer:
+ **Young specialist from Kyrgyzstan in the field of IT** :computer:
 
 
 
