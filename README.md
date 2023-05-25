@@ -5,5 +5,5 @@
 
 
 - 🔭 I’m currently working on  my homework
-- 🌱 I’m currently learning  ***Dart,  Flutter, C++, HTML,CSS,JS***
-- 📫 How to reach me: 
+- 🌱 I’m currently learning  ***Dart,  Flutter***
+- 📫 How to reach me: @kozhonova.begimai.kanybekovna@gmail.com
